@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: #b7daf8;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+    padding: 2rem;
+    max-width: 80%;
+
+}
+.btn {
+    border: 1px solid #56a5eb;
+    text-align: center;
+    background-color: white;
+    text-decoration: none;
+    padding: 0.5rem 5rem;
+     text-align: center;
+     color:#56a5eb;
+}
+.a{
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.b{
+    margin-top: 10px;
+}
+#hii{
+    padding: 0.5rem 3rem;
+}
